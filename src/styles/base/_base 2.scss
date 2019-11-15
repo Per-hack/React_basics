@@ -1,0 +1,13 @@
+// default browser font size is normally 16pixels
+// 0.625 * 16 = 10 pixels
+// 1rem = 16px => 10px
+
+html{
+    font-size: 62.5%;
+}
+
+body {
+    font-family: fantasy;
+    font-size: 1.6rem;
+}
+
